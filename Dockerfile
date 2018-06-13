@@ -1,5 +1,5 @@
 FROM tensorflow/tensorflow:latest-py3
-MAINTAINER chris.ai <chris.ai@navercorp.com>
+MAINTAINER bboy.seiok <bboy.seiok@navercorp.com>
 
 USER root
 
