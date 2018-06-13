@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:latest-gpu-py3
+FROM tensorflow/tensorflow:latest-py3
 MAINTAINER chris.ai <chris.ai@navercorp.com>
 
 USER root
